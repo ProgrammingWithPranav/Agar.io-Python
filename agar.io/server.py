@@ -4,7 +4,7 @@ import math
 
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
-PORT = 5555
+PORT = 5050
 BALL_RADIUS = 5
 START_RADIUS = 7
 
